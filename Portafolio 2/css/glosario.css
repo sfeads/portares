@@ -1,0 +1,203 @@
+*{
+    margin:0;
+    font-family: monospace;
+}
+
+header{
+   background-color: #85def2;
+   background-image: linear-gradient(71deg, #85def2 0%, #d996d4 45%, #f2dce0 89%);
+
+
+
+    width: 100%;
+    height: 75px; 
+    
+    
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between
+        }
+
+li a:link{
+ display:block;
+    width:100px;
+    height: 30px;
+    margin:auto;
+    text-decoration: none;
+    padding: 5px 5px 5px ;
+    margin-top: ; 
+    font-family: monospace;
+    color: white;
+    font-size: 17px;
+    
+}
+
+li a:visited{
+ display:block;
+    width:100px;
+    height: 30px;
+    margin:auto;
+    text-decoration: none;
+    padding: 5px 5px 5px ;
+    margin-top: ; 
+    font-family: monospace;
+    color: white;
+    font-size: 17px;
+    
+}
+
+.nav{
+  transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+justify-content: space-between;
+    margin: auto 10px;
+     border-radius: 20px;
+    text-align: center;
+    background-color: black;
+}
+
+.nav:hover{
+    box-shadow: 0 0 40px 40px #85DEF2 inset;
+}
+
+.glosario{
+  transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+   justify-content: space-between;
+    margin: auto 10px;
+     border-radius: 20px;
+    text-align: center;
+    background-color: black;
+}
+
+.glosario:hover{
+    box-shadow: 0 0 40px 40px #85DEF2 inset;
+}
+
+.logo{
+    font-size: 30px;
+    width: 450px;
+    font-family: monospace;
+    color: #fff;
+    margin: 20px;
+}
+
+.inicio{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.js{
+    text-align: center;
+    color: #46C7DB;
+    font-family: 'Lato', sans-serif;
+    margin: 30px;
+}
+
+.Tablati{
+    text-align: center;
+    background: #3F78E8;
+    color: snow;
+    font-family: monospace;
+    font-size: 20px;
+    border: solid 2px;
+}
+table{
+    border: solid 2px;
+    margin: 20px 40px 30px 40px;
+}
+
+.Texto_sec{
+    margin: 10ps 30px 0px 30px;
+    font-family: monospace;
+}
+
+.Titulo_texto{
+    color: #41ACF2;
+    font-family: monospace;
+}
+
+.Titulo_objetos{
+    color:#3FE8A0;
+    font-family: monospace;
+}
+
+.Titulo_texto_css{
+    color:#41ACF2;
+    font-family: monospace;
+}
+
+.Titulo_objetos_css{
+    color: #3F78E8;
+    font-family: monospace;
+}
+
+.Texto_11{
+    text-align: center;
+    margin: 20px 20px;
+}
+
+h2{
+    font-family: monospace;
+}
+
+.Titulo_Propiedades{
+    color: #3F78E8;
+    margin: 50px 40px 20px 40px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Propiedades_1{
+    color: #46C7DB;
+    margin: 40px 0px 20px 20px;
+    font-size: 25px;
+}
+
+.Propiedades_2{
+    color: #d996d4;
+     margin: 40px 0px 20px 20Px;
+    font-size: 25px;
+    
+}
+
+.Propiedades_3{
+    color: #46C7DB;
+     margin: 40px 0px 20px 20px;
+    font-size: 25px;
+}
+
+.Propiedades_4{
+    color: #3F78E8;
+     margin: 40px 0px 20px 20px;
+    font-size: 25px;
+}
+
+tr{
+    border-style:double;
+}
+
+td{
+    border-style:none;
+}
+
+p{
+    margin: 0px 0px 0px 20px;
+    font-size: 15px;
+}
+
+ol{
+    margin: 30px;
+}
+
+.croma{
+  transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+justify-content: space-between;
+    margin: auto 10px;
+     border-radius: 20px;
+    text-align: center;
+    background-color: black;
+}
+
+.croma:hover{
+    box-shadow: 0 0 40px 40px #85DEF2 inset;
+}
